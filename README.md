@@ -45,6 +45,7 @@
 ### **Deliverables**  
 - Working **FastAPI** backend with machine-learning capabilities.  
 - Functional **Next.js** frontend for file upload and question-answering.  
-- Clear documentation for setup and usage.  
+- Clear documentation for setup and usage.
+- Push both frontend and backend code to a github repository, then share the repository link with me.
 
 This setup will allow students to build a simple **machine-learning-based Q&A system** using **FastAPI** and **Next.js** while learning about backend and frontend integration. 🚀
