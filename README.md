@@ -7,7 +7,7 @@
 2. Create a Python virtual environment inside the folder.  
 3. Activate the virtual environment.  
 4. Install **FastAPI** and required dependencies.  
-5. Copy the provided code and run the project by following tutorials.  
+5. Copy the tutorial code and run the project by following tutorials.  
 
 #### **Endpoints to Implement**  
 1. **`/learn` Endpoint** (POST Method)  
