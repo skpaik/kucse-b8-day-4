@@ -49,3 +49,10 @@
 - Push both frontend and backend code to a github repository, then share the repository link with me.
 
 This setup will allow students to build a simple **machine-learning-based Q&A system** using **FastAPI** and **Next.js** while learning about backend and frontend integration. 🚀
+
+---
+
+### **Github Learning**  
+- Learn how to create github account
+- Learn how to create github respositiry
+- Learn how to push in github repository from your local computer.
